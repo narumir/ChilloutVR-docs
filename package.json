@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "ChilloutVR 문서 한국어 변역",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narumir/ChilloutVR-docs.git"
+  },
+  "author": "narumir",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/narumir/ChilloutVR-docs/issues"
+  },
+  "homepage": "https://github.com/narumir/ChilloutVR-docs#readme",
+  "devDependencies": {
+    "honkit": "^3.7.5"
+  }
+}
